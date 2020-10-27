@@ -12,7 +12,7 @@
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		<exec.mainClass>dad.AdivinApp.Main</exec.mainClass>
+		<exec.mainClass>dad.IMC.Main</exec.mainClass>
 	</properties>
 
 	<dependencies>
