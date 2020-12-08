@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>dad.javaFX</groupId>
-	<artifactId>IMC</artifactId>
+	<groupId>dad.JavaFX</groupId>
+	<artifactId>IMCCalculator</artifactId>
 	<version>0.0.1</version>
 
 	<description>Calculadora de IMC</description>
@@ -12,7 +12,7 @@
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		<exec.mainClass>dad.IMC.Main</exec.mainClass>
+		<exec.mainClass>dad.JavaFX.IMCCalculator.Main</exec.mainClass>
 	</properties>
 
 	<dependencies>
